@@ -26,4 +26,7 @@
 
 预计2023.3月初公测
 
+【腾讯文档】OpenTpuOmniWheel公测预定
+https://docs.qq.com/sheet/DUklRTGJoa3NjbndE?tab=BB08J2
+
 预计价格6元/套（价格受原材料价格影响），含1个滚子，1个3\*25销钉，2个3\*8\*4轴承，2个铝3.4\*6\*2垫片。
