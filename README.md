@@ -28,9 +28,13 @@
 
 预计：聚氨酯50A，耐用性会比橡胶的好。光滑地面摩擦力可能比不过橡胶，但在地胶上的摩擦力应该不错（根据大家的聚氨酯包胶舵轮与平衡车轮表现），还有待测试
 
+## 全向轮步兵设计参考
+
+[[机械设计]RM2022-南京理工大学-Alliance-机械结构开源-步兵机器人](https://bbs.robomaster.com/forum.php?mod=forumdisplay&fid=63&filter=typeid&typeid=11) 
+
 ## 项目进度
 
-预计2023.3月初公测
+预计2023.3月初公测（公测的滚子性能上可能会有不足）
 
 【腾讯文档】OpenTpuOmniWheel公测预定
 https://docs.qq.com/sheet/DUklRTGJoa3NjbndE?tab=BB08J2
