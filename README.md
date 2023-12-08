@@ -28,7 +28,7 @@ QQ群：704988252
 
 板材堆叠后厚度为3+3+3+11+3+3+3=29mm，推荐使用M3*35螺丝进行固定。
 
-<img src="OTOW-Pic3.jpg" alt="OTOW-Pic3" style="zoom: 15%;" />
+<img src="OTOW-Pic3.JPG" alt="OTOW-Pic3" style="zoom: 15%;" />
 
 ## 性能
 
